@@ -1,4 +1,4 @@
-# Boas vindas ao repositório do projeto One For All!
+# Boas vindas ao repositório do projeto One For All! (((())))
 
 Para desenvolver os projetos, você deverá seguir as instruções a seguir. Fique atento a cada passo e, se tiver qualquer dúvida, nos envie por Slack! #vqv 🚀
 
