@@ -81,7 +81,7 @@ VALUES
   ('Patrick', 33, 4, '2018-01-05'),
   ('Vivian', 26, 2, '2019-06-05'),
   ('Carol', 19, 2, '2018-02-14'),
-  ('Angelica', 42, '4', '2018-04-29'),
+  ('Angelina', 42, '4', '2018-04-29'),
   ('Paul', 46, 4, '2017-01-17');
   
 INSERT INTO SpotifyClone.album (nome_album, artista_id, ano_lancamento)
@@ -150,7 +150,7 @@ VALUES
   ('Finding My Traditions', 179, 7),
   ('Walking And Man', 229 , 7),
   ('Hard And Time', 135, 7),
-  ("Honey, I'm A Lone Wolf", 250, 7),
+  ("Honey, I'm A Lone Wolf", 150, 7),
   ("She Thinks I Won't Stay Tonight", 166, 8),
   ("He Heard You're Bad For Me", 154, 8),
   ("He Hopes We Can't Stay", 210, 8),
