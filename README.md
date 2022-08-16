@@ -10,7 +10,7 @@ Temos, nesse projeto, uma série de desafios com diferentes níveis de complexid
 
 O banco de dados utilizado foi o `SpotifyClone`.
 
-### ***Importante: A tabela normalizada está no arquivo `desafio1.sql` .***
+### ***Importante: As tabelas normalizadas estão no arquivo `desafio1.sql` .***
 ---
 
 ## 🎯 Problema resolvido:
